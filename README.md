@@ -1,3 +1,3 @@
 # digitaltools-assignment
-groupmembers_Meichen,Jirong,Silin,Sandra,Wenxi
+groupmembers: Meichen, Jirong, Silin, Sandra, Wenxi\\
 Here we present all of our works on using latex, SQL database, and show that we can use github to collabrate.
