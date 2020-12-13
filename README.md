@@ -1,5 +1,5 @@
 # digitaltools-assignment
-## groupmembers: Meichen Shen, Jirong Liu, Silin Zhou, Sandra Kuchenbecker, Wenxi Feng
+## groupmembers: Meichen Shen(19-763-952), Jirong Liu(19-763-507), Silin Zhou(19-764-042), Sandra Kuchenbecker(15-702-343), Wenxi Feng(18-745-257)
 
 Here we present all of our group assignment for Digital Tools for Finance. The works contain paper and slides written in latex, SQL database, and an interactive app, in the meantime showing that we can use github to collaborate.
 
